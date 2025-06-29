@@ -66,7 +66,7 @@ A Python-based tool that extracts text and metadata from PDF files — with opti
 
 ## ✅ Example Output
 
-📄 PDF Metadata:  
+PDF Metadata:  
 title: Machine Learning Notes  
 author: Piyush Singhal  
 creationDate: D:20240625123000  
